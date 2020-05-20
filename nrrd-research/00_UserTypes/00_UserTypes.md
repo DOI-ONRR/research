@@ -1,12 +1,12 @@
 # User Types
 ## Who we've interviewed
 These are the types of users we've interviewed over the course of all studies since April 2018. 
-![user types mapped on one triangle representing known questions, system understanding, and exploration and another triangle representing providing an answer, presenting data, and making a decision](https://github.com/ONRR/doi-extractives-data/blob/research/research/00_UserTypes/AllUsers.PNG)
+![user types mapped on one triangle representing known questions, system understanding, and exploration and another triangle representing providing an answer, presenting data, and making a decision](https://github.com/ONRR/research/blob/master/nrrd-research/00_UserTypes/AllUsers.png)
 
 ## User Type 1: Question Answerer
 Question Answerers generally come to the site with a known question and need to provide the answer to that question directly to the person who asked it. A large portion are internal ONRR analysts who field questions from external audiences and previously used the decommissioned internal site. Congressional staffers also often fall into this user type.
 
-![Visual summary of question answerer participants, with the majority located close to known question for finding data on the site and close to provide an answer for usage of the data, defined as someone else is asking them for information or they have a specific question or number they need](https://github.com/ONRR/doi-extractives-data/blob/research/research/00_UserTypes/QuestionAnswerers.PNG)
+![Visual summary of question answerer participants, with the majority located close to known question for finding data on the site and close to provide an answer for usage of the data, defined as someone else is asking them for information or they have a specific question or number they need](https://github.com/ONRR/research/blob/master/nrrd-research/00_UserTypes/QuestionAnswerers.png)
 
 ### Goals 
 * Answer a question that either someone else is asking or they know they have.
@@ -28,7 +28,7 @@ Question Answerers generally come to the site with a known question and need to 
 ## User Type 2: Agenda Supporter
 Agenda Supporters are people who work for organizations, such as non-governmental organizations (NGOs), or are political appointees or congressional staffers who are committed to a cause. They look for data to support their cause and may revise their agenda based on what they find from exploring the data. They generally want to take action based on their agenda.
 
-![Visual summary of agenda supporter participants, with the majority of participants located between known question and exploration for finding data on the site, closer to known question and between find an answer and present data, closer to present data, for usage of the data, defined as someone who is committed to a cause and looking for data to support that cause](https://github.com/ONRR/doi-extractives-data/blob/research/research/00_UserTypes/AgendaSupporters.PNG)
+![Visual summary of agenda supporter participants, with the majority of participants located between known question and exploration for finding data on the site, closer to known question and between find an answer and present data, closer to present data, for usage of the data, defined as someone who is committed to a cause and looking for data to support that cause](https://github.com/ONRR/research/blob/master/nrrd-research/00_UserTypes/AgendaSupporters.png)
 ### Goals 
 * Find supporting data for his or her agenda.
 * Work with the data and use it to inform people about how natural resource revenue data supports their agenda.
@@ -48,7 +48,7 @@ Agenda Supporters are people who work for organizations, such as non-governmenta
 ## User Type 3: Storyteller
 Storytellers are often journalists and academics who want to understand what is happening and learn from the data whether there’s a story to tell. They also come to the site when they already have a story in mind and need a number or want to flesh it out with information from multiple sources. Their primary goal is to tell the story in a compelling and factual way.
 
-![Visual summary of storyteller participants, with the majority of participants located close to exploration for finding data on the site and close to present data for usage of the data, defined as someone who is looking for the data to tell them a story that they can then share with others](https://github.com/ONRR/doi-extractives-data/blob/research/research/00_UserTypes/Storytellers.PNG)
+![Visual summary of storyteller participants, with the majority of participants located close to exploration for finding data on the site and close to present data for usage of the data, defined as someone who is looking for the data to tell them a story that they can then share with others](https://github.com/ONRR/research/blob/master/nrrd-research/00_UserTypes/Storytellers.png)
 
 ### Goals 
 * Understand what is happening with natural resources.
@@ -70,7 +70,7 @@ Storytellers are often journalists and academics who want to understand what is 
 ## User Type 4: Domain Learner
 Domain Learners are engaged at a higher level and want to understand the bigger picture. They are in charge of a domain, such as a federal government agency, state, county, or Native American tribe and want to know what is going on in that domain. They need to make decisions and answer questions based on what they see in the data.
 
-![Visual summary of domain learner participants, with the majority of participants located between system understanding and known question, closer to system understanding, for finding data on the site and closest to make a decision, but also close to provide an answer and present data, for usage of the data, defined as someone who seeks to understand the whole picture for the domain they oversee](https://github.com/ONRR/doi-extractives-data/blob/research/research/00_UserTypes/DomainLearners.PNG)
+![Visual summary of domain learner participants, with the majority of participants located between system understanding and known question, closer to system understanding, for finding data on the site and closest to make a decision, but also close to provide an answer and present data, for usage of the data, defined as someone who seeks to understand the whole picture for the domain they oversee](https://github.com/ONRR/research/blob/master/nrrd-research/00_UserTypes/DomainLearners.png)
 
 ### Goals 
 * Keep tabs on how well the process is working for the domain or locality he/she is interested in.
