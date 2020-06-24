@@ -6,7 +6,7 @@
 * Revenue by company: No one found it, hard time understanding terminology, assume data to be in the query tool, want the ability to copy or download the data for company once it's found, expect text on left to be tied to filters.​.
 * Downloads: Download links should directly download a file
 * Query Tool: Slow, no issues navigating, helpful for collecting data. 
-# State pages
+# State pages 
 * Expect the download link from state pages to download data just for that state selected.
 * Expect monthly data for states to be in state pages
 * No issues finding the state pages
