@@ -88,6 +88,7 @@ Production Tasks
 
 Disbursement Tasks
 How would you find out how much natural resource revenue that was distributed to your home state for 2007?
+
 Revenue Tasks
 1. If you wanted to know how much revenue Texas generated from Federal onshore in FY 2017, how would you do that?
 2. Can you tell us how much federal offshore revenue was collected in April 2014?
