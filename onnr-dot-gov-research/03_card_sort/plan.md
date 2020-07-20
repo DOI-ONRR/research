@@ -54,15 +54,15 @@ I also want to stress that this isn’t a test and we certainly ARE NOT TESTING 
 
 4. All the cards will be in an uncategorized column.  Use the Add Column link on the right to add columns to organize the cards. 
 
-![Screenshot of GitHub showing the uncategorized column](https://github.com/ONRR/research/tree/master/onnr-dot-gov-research/03_card_sort/CardSort1.png)
-![Screenshot of GitHub showing add column functionality](https://github.com/ONRR/research/tree/master/onnr-dot-gov-research/03_card_sort/CardSort2.png)
-![Screenshot of GitHub showing an added category](https://github.com/ONRR/research/tree/master/onnr-dot-gov-research/03_card_sort/CardSort3.png)
+![Screenshot of GitHub showing the uncategorized column](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort1.png)
+![Screenshot of GitHub showing add column functionality](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort2.png)
+![Screenshot of GitHub showing an added category](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort3.png)
 
 5. Drag the cards into the columns for the categories you create 
 
 6. Take a last look at your categories and rename any by clicking on the … and selecting Edit column 
 
-![Screenshot of GitHub showing how to edit a column](https://github.com/ONRR/research/tree/master/onnr-dot-gov-research/03_card_sort/CardSort4.png)
+![Screenshot of GitHub showing how to edit a column](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort4.png)
 
   
 
