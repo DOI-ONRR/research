@@ -1,16 +1,9 @@
 # Background
-We have created a data query tool to be able to query data by production, revenue, and disbursements and then by landowner, location, revenue type, commodity, source, disbursement source and fiscal year. We want to observe how users navigate the tool and document any usability issues.
+We have updated a data query tool to be able to query data by production, revenue, and disbursements and then by landowner, location, revenue type, commodity, source, disbursement source and fiscal year. 
 ## Goals
-* Primary Goal: Determine whether the data query tool meets user needs.
-  * Understand what tasks users would want to complete with the tool
-  * Determine whether the tool helps users accomplish those tasks.
-  * Determine how the user expects to access the tool from the Explore Data and home pages
-  * Determine if the query options are self explanatory.
-  * Determine if they want calendar year or monthly data added to the tool.
-  * Determine whether users understand the nuances of withheld data and when there isn’t a location or commodity tied to revenue.
-* Secondary Goal: Understand what specific questions users want to answer using the site.
-* Secondary Goal: Evaluate changes to the homepage, including the sparklines and not tied to a lease changes.
-* If we have time, get feedback on the Explore Data concept.
+* Determine whether the new explore data page is usable 
+* Identify areas that need fixing 
+* Prioritize charts that haven't been built yet  
 
 ## Method and desired participants
 Over the course of a few weeks, we would like to interview at least 9 participants from the following user groups for 30 minute 1:1 interviews. We will focus on users that have oil and gas experience and understand natural resources data.
@@ -20,31 +13,29 @@ Over the course of a few weeks, we would like to interview at least 9 participan
 * Domain Learners: These are people like state and county government reps and tribal leaders who want to monitor what’s going on within their domain and understand the whole system.
 
 ## Recruitment Strategy
-In order to recruit research participants from our target user groups, we will contact people who are familiar with the site or oil and gas revenue data. We will recruit internally from ONRR and externally.
+* In order to recruit research participants from our target user groups, we will contact people who are familiar with the site or oil and gas revenue data. We will recruit internally from ONRR and externally.
+* We are hoping to speak with users who are familiar with our data and can help evaluate if the data organization makes sense.  
 
 We are hoping to speak with users who are familiar with our data and can help evaluate if the data organization makes sense.
 
 ## Test Assets:
 
 We will be testing the following:
-* The query tool links on the home page that takes the user to the query tool to understand if users understand the links’ purpose and if placement is intuitive. · Home page with link to query tool
-* The query tool links on the Explore Data page that takes the user to the query tool to understand if users understand the links’ purpose and if placement is intuitive. · Explore data page with links to query
 
-### Query Tool functionality
-* Query options
-* Monthly, fiscal year or calendar year
-* Withheld data or no location associated
+* Homepage https://dev-nrrd.app.cloud.gov/
+* Explore Data page https://dev-nrrd.app.cloud.gov/explore/
+* Revenue Prototype https://935313.axshare.com/#g=1&p=revenue_colors_-_final
+* Disbursement Prototype https://935313.axshare.com/#g=1&p=compare_states
 
 # Interview guide
-## Intro
-Thank you for taking the time to participate in our research study. I will be conducting the interview, and my teammates will be listening in to take notes and observe.
-Our team’s goal is to talk to users about our site, test how they would complete a task, and observe how they are using it to learn about possible improvements to the site. If we have time, we’ll also look at some design ideas at the end of the session.
-External users: digitally sign giving us permission to conduct the study. It just states your rights as a participant and that we won't be capturing any personally identifiable information
+## Intro (5 min)
+* Introductions 
+* Welcome, thank you for taking the time to meet with us.  I’m here today along with a few people from my team who are taking notes.   
+* What we do on this team is talk with people about their tasks and observe them completing tasks, to learn about improvements we can make to the site.  Have you ever participated in research like this before? 
+* External users: Did {Maroya or Lindsay} send you the consent form to sign? It just states your rights as a participant and that we won't be capturing any personally identifiable information 
+* What the consent for is about (if the participant has any questions): It outlines your rights as a participant and says we won’t misuse your personal information. 
 
-## User Task Background (people don’t fit our user profiles) (5 min)
-Tell us a little bit about your background, so we can get a sense for where your perspective is coming from.
-
-## User Task Background (people who fit our user profiles whom we haven’t interviewed before) (20 min)
+## User Task Background (15 min)
 * What is your role and how do you use natural resources data in that role?
 * Have you used the Natural Resources Revenue portal before?
   * Tell me a little bit about what you use the Portal for.
@@ -56,58 +47,54 @@ Tell us a little bit about your background, so we can get a sense for where your
   * How do you verify the data you are going to use?
   * What does your output look like?
 * What are the most important pieces of information to you?
-* Is natural resources revenue data important to you?
-  * How do you currently access data you need to do your job?
-  * What struggles/problems have you encountered when looking for this data?
-* What kind of questions do you need to answer about natural resources revenue data? Can you give a specific example?
 
-## Interview testing Process:
+## About Testing Prototypes
+* We’re going to be looking at some prototypes of designs we’re thinking about. 
+* Not everything will be clickable.   
 * We’re testing the design we’re not testing you.
-* There are no right or wrong answers.
-* Please think out loud as we are conducting the interview for us to understand your thought process as you are exploring the site. We want to know what you would do if we weren’t watching.
-* We appreciate your honest feedback to help us improve our designs
+* I’d like you to think out loud  
+* I want to know what you really think and how you would actually use it.  You can’t hurt my feelings. We want honest feedback so we can make the designs better.  
 
-## Query Tool https://revenuedata.doi.gov/query-data/
 
 ## Tasks & Questions:
-Finding the tool and user directed questions
-1. Can you tell me a specific question you have about natural resources revenue? How would you find that information using this website?
-* How easy or difficult was it to find the answer?
-* What do you think of the information that’s presented?
-* Is this information useful?
-* Are there pieces of information that you wouldn’t use?
-Probes:
-* Query options
-* Fiscal/calendar year/monthly data
-* Withheld, not tied to a location or commodity
-2. Are there other tasks you might use this tool to complete? Probe into tasks for production, revenue, and disbursements and use those, if possible. If they can’t come up with their own tasks, use the ones below.
+### Start at the [Home Page] (https://dev-nrrd.app.cloud.gov/)
+* Take a look at this page and tell me your general thoughts? 
+* What do you think of the information that’s presented? 
+* Is this information useful? 
+* What do you expect to happen when you click on a different tab? 
+Revenue Tab 
+* Task: Can you tell me how much revenue was generated in CY 2013 on Native American lands? 
+  * Do you prefer the data to be displayed in FY or CY? 
+  * Do you expect the total revenue for each year to be displayed on the table? 
+  * What does “Not tied to a lease” mean to you? 
+  * Are the trends helpful? 
+* Task: Can you tell me how much royalties were generated from oil production in Colorado in 2016? ( The purpose of this task is to see how the user will find the query tool since this task can’t be performed on the homepage) 
+Disbursement Tab 
+* Task: Can you tell me how much was disbursed in FY 2017 to Native Americans? 
+  * Do you expect the total disbursement for each year to be displayed in the table? 
+  * Are the trends helpful? 
+* Task: Where would you go if you want to explore more data and get the whole picture?  (The  purpose of this task is to see how the user will find explore data without directing them there) 
 
-Production Tasks
-1. How much oil was produced in Kings County, CA [or the user’s county] in 2015?
-2. Can you tell us how much total gas was produced in Fiscal Year 2016 on Native American lands?
-
-Disbursement Tasks
-How would you find out how much natural resource revenue that was distributed to your home state for 2007?
-
-Revenue Tasks
-1. If you wanted to know how much revenue Texas generated from Federal onshore in FY 2017, how would you do that?
-2. Can you tell us how much federal offshore revenue was collected in April 2014?
-3. How would you find out how much revenue was generated from bonuses in 2016?
-
-General probes
-* Is the answer where you expected it to be?
-* Is there anything that doesn’t make sense?
-* Does the location of the query tool make sense?
-* What do you think of the filter options? Are there any you would add or remove?
-* Do they understand the Edit Grouping function?
-* What would they do with the data once they’ve found it?
-
-Explore Data concept (if we have spare time)
-I’m going to show you a concept we’re working on. https://935313.axshare.com/#g=1&p=revenue_1
-Take a look at this screen and tell me what you can do here.
-* What kinds of tasks can you do on this page?
-* Would it be a useful tool?
-* What would you think of replacing the current Explore Data page with something like this? (Show Explore Data page if they didn’t encounter it in previous tasks).
+### Explore Data (revenue) https://dev-nrrd.app.cloud.gov/explore/
+* Poke around a bit and see what you can do on this page and what it's telling you. 
+* What do you think of the information presented? 
+* Is the information useful? 
+* What do you think of the information presented on the national card? 
+* Task: How would you compare what's going on with Texas to what's going on in the whole country? 
+  * Is the information on the Texas card helpful? 
+  * Are there any pieces of information that you would want to compare that you don't see here? 
+  * Is it intuitive to click out of a card? 
+  * How many locations would you want to compare at once? Are 4 cards a good amount? 
+* Are you interested in offshore data?  
+  * If answer yes. Task: How would you make the map display offshore data? 
+  * Did the offshore data button make sense right away? 
+* Is it clear that the cards are only displaying Federal data and not Native American data? 
+  * Are you interested in Native American data?  
+  * How would you add Native American card to be displayed? 
+  * Was that easy or hard to find? 
+* Task: How would you view the map by counties? 
+  * Did Map level make sense? If not, what’s another name to make it clear? 
+  * How would you use county data? Would you want to compare it against other counties? Only counties within a single state? Against the whole state? 
 
 ## Close
 * Are you interested in participating in future studies? Do you have any other specific areas of the site (or data elements) that you’re interested in providing your feedback on?
