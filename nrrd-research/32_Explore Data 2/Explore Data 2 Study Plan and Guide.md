@@ -70,7 +70,8 @@ Tell us a little bit about your background, so we can get a sense for where your
 * Please think out loud as we are conducting the interview for us to understand your thought process as you are exploring the site. We want to know what you would do if we weren’t watching.
 * We appreciate your honest feedback to help us improve our designs
 
-## Query Tool https://dev-nrrd.app.cloud.gov/query-data/ 
+## Query Tool 
+https://dev-nrrd.app.cloud.gov/query-data/ 
 
 ## Tasks & Questions:
 Finding the tool and user directed questions
