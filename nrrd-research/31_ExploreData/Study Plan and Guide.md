@@ -10,7 +10,7 @@ We have created a data query tool to be able to query data by production, revenu
   * Determine whether users understand the nuances of withheld data and when there isn’t a location or commodity tied to revenue.
 * Secondary Goal: Understand what specific questions users want to answer using the site.
 * Secondary Goal: Evaluate changes to the homepage, including the sparklines and not tied to a lease changes.
-* If we have time, get feedback on the Explore Data concept. 
+* If we have time, get feedback on the Explore Data concept.
 
 ## Method and desired participants
 Over the course of a few weeks, we would like to interview at least 9 participants from the following user groups for 30 minute 1:1 interviews. We will focus on users that have oil and gas experience and understand natural resources data.
@@ -19,7 +19,7 @@ Over the course of a few weeks, we would like to interview at least 9 participan
 * Storytellers: These are people like journalists and academics who want the data to tell them a story that they want to share with other people.
 * Domain Learners: These are people like state and county government reps and tribal leaders who want to monitor what’s going on within their domain and understand the whole system.
 
-## Recruitment Strategy 
+## Recruitment Strategy
 In order to recruit research participants from our target user groups, we will contact people who are familiar with the site or oil and gas revenue data. We will recruit internally from ONRR and externally.
 
 We are hoping to speak with users who are familiar with our data and can help evaluate if the data organization makes sense.
@@ -70,7 +70,7 @@ Tell us a little bit about your background, so we can get a sense for where your
 ## Query Tool https://revenuedata.doi.gov/query-data/
 
 ## Tasks & Questions:
-Finding the tool and user directed questions 
+Finding the tool and user directed questions
 1. Can you tell me a specific question you have about natural resources revenue? How would you find that information using this website?
 * How easy or difficult was it to find the answer?
 * What do you think of the information that’s presented?
@@ -82,7 +82,7 @@ Probes:
 * Withheld, not tied to a location or commodity
 2. Are there other tasks you might use this tool to complete? Probe into tasks for production, revenue, and disbursements and use those, if possible. If they can’t come up with their own tasks, use the ones below.
 
-Production Tasks 
+Production Tasks
 1. How much oil was produced in Kings County, CA [or the user’s county] in 2015?
 2. Can you tell us how much total gas was produced in Fiscal Year 2016 on Native American lands?
 
