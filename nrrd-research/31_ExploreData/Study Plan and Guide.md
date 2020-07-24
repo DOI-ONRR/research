@@ -57,7 +57,8 @@ We will be testing the following:
 
 
 ## Tasks & Questions:
-### Start at the [Home Page] (https://dev-nrrd.app.cloud.gov/)
+### Start at the Home Page 
+https://dev-nrrd.app.cloud.gov/
 * Take a look at this page and tell me your general thoughts? 
 * What do you think of the information that’s presented? 
 * Is this information useful? 
@@ -75,7 +76,8 @@ Disbursement Tab
   * Are the trends helpful? 
 * Task: Where would you go if you want to explore more data and get the whole picture?  (The  purpose of this task is to see how the user will find explore data without directing them there) 
 
-### Explore Data (revenue) https://dev-nrrd.app.cloud.gov/explore/
+### Explore Data (revenue) 
+https://dev-nrrd.app.cloud.gov/explore/
 * Poke around a bit and see what you can do on this page and what it's telling you. 
 * What do you think of the information presented? 
 * Is the information useful? 
@@ -95,6 +97,49 @@ Disbursement Tab
 * Task: How would you view the map by counties? 
   * Did Map level make sense? If not, what’s another name to make it clear? 
   * How would you use county data? Would you want to compare it against other counties? Only counties within a single state? Against the whole state? 
+
+### Revenue Prototype 
+https://935313.axshare.com/#g=1&p=revenue_colors_-_final 
+* These are proto types of other ways we are thinking of displaying the revenue data. 
+* Take a look and let me know your general thoughts? 
+* Is this information useful? 
+* Is it useful to know the federal land ownership percentage on top of the card? 
+* What do you think of how the commodities are displayed? 
+  * Is the scale of revenue clear using the circles? 
+  * What do you think of the colors? 
+* What do you think of how the revenue type is being displayed? 
+  * Is the scaled of revenues clear using the circles? 
+  * What do you think of the colors used? 
+* Is the revenue over time chart useful? 
+* Is the nationwide revenue summary by revenue type useful? 
+  * What do you think of the colors ? 
+* What do you think of the top revenue by location displayed? 
+  * Is that information useful? 
+  * Would you want to see the top locations displayed in another way? 
+* What do you think of the top producing commodities displayed? 
+  * Is that information useful? 
+  * Would you want to see the top locations displayed in another way? 
+* What do you think of the ten highest revenue companies table? 
+  * Is that information useful? 
+  * Would you want to see the top locations displayed in another way? 
+* Do you like the order of the top charts (top location, top commodities, top companies)? If not, how would order them?  
+  * Is there any other “top” charts you would like to see? 
+
+### Disbursement Prototype 
+https://935313.axshare.com/#g=1&p=compare_states 
+* These are proto types of ways we are thinking of displaying the disbursements data. 
+* What do you think of the information that’s presented? 
+* Is this information useful? 
+* What do you expect the data type drop down to do?  
+  * Is there another way you would want to switch exploring a different data type? 
+* What do you think of the time frame selection? 
+* Do you like having the option to select a state using a dropdown as well as clicking on the map? 
+* What do you think of the pie chart and table displaying disbursements by recipient? 
+* What do you think of the pie chart and table displaying the source of disbursements? 
+* Is it helpful to see the disbursement recipients and the source on the same card? 
+* Is the disbursement over time chart helpful? 
+* Is the bar chart on the bottom displaying the disbursements by source helpful? 
+  * Is there another way you prefer that data to be displayed? 
 
 ## Close
 * Are you interested in participating in future studies? Do you have any other specific areas of the site (or data elements) that you’re interested in providing your feedback on?
