@@ -69,32 +69,32 @@ User Directed Task
 *Move to explore data or query tool probes depending on user path/questions 
 
 ### Finding Explore Data and user directed questions  
-Explore Data (revenue) 
+#### Explore Data (revenue) 
 * Poke around a bit and see what you can do on this page and what it's telling you.  
 * What do you think of the information presented?  
 * Is the information useful?  
 * What do you think of the information presented on the national card? 
-Nationwide revenue summary  
+#### Nationwide revenue summary  
 * What do you think this is telling you?  
 * Task: What is federal onshore rents for FY 2015? 
-Nationwide location circle chart 
+#### Nationwide location circle chart 
 * What is this chart telling you?  
 * Task: Can you tell me where the top location is for data type selected?  
-State cards 
+#### State cards 
 * Task: How would you compare what's going on with Louisiana to what's going on in the whole country? 
 * Is the information on the Louisiana card helpful? 
 * Are there any pieces of information that you would want to compare that you don't see here? 
 * Is it intuitive to click out of a card? 
 * How many locations would you want to compare at once? Are 4 cards a good amount? 
 * Revenue over time chart: Ask about once several cards are chosen to compare. If look at chart, can you tell what revenue was in xx year from the chart?  
-Offshore data 
+#### Offshore data 
 * If answer yes. Task: How would you make the map display offshore data? 
 * Did the offshore data button make sense right away? 
 * Is it clear that the cards are only displaying Federal data and not Native American data? 
-Native American data 
+#### Native American data 
 * How would you add Native American card to be displayed? 
 * Was that easy or hard to find? 
-County data 
+#### County data 
 * Task: How would you view the map by counties? 
 * Did Map level make sense? If not, what’s another name to make it clear? 
 * How would you use county data? Would you want to compare it against other counties? Only counties within a single state? Against the whole state? 
@@ -102,17 +102,17 @@ County data
 ### Finding the query tool and user directed questions 
 https://674jzn.axshare.com/ 
 This is a prototype, so not everything will be clickable. 
-Query Tool  
+#### Query Tool  
 * Filter options 
 * Grouping/break outs 
 * How would you download the data?  
  Are there other tasks you might use this tool to complete? Probe into tasks for each data type and use those, if possible.  If they can’t come up with their own tasks, use the  ones below. 
 * Show them the Explore Data page then ask: Did you expect the filters you select in the query tool or explore data to stick when you switch between the two?  
-Revenue Tasks  
+#### Revenue Tasks  
 * If you wanted to know how much revenue Wyoming generated from Federal onshore in FY 2017, how would you do that? How would you download the data?  
 * Can you tell us how much federal offshore revenue was collected in Calendar year 2012? 
 * How would you find out how much revenue was generated from rents in 2016? 
-General probes 
+#### General probes 
 * Is the answer where you expected it to be? 
 * Is there anything that doesn’t make sense? 
 * Does the location of the query tool make sense? 
