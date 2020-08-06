@@ -32,7 +32,7 @@ Introduction : Thank you for taking the time to participate in our research stud
 
 Our team’s goal is to talk to users about our site, test how they would complete a task,  and observe how they are using it to learn about possible improvements to the site.
 
-External users:  digitally sign giving us permission to conduct the study. It just states your rights as a participant and that we won't be capturing any personally identifiable information. [Consent form](https://goo.gl/forms/gAN773PPJOA0YiXL2)
+External users:  digitally sign giving us permission to conduct the study. It just states your rights as a participant and that we won't be capturing any personally identifiable information. 
 
 ## User Task Backround - people who don't fit our user profiles (5 min)
 Tell us a little bit about your background, so we can get a sense for where your perspective is coming from.
