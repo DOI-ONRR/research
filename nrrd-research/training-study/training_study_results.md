@@ -1,7 +1,7 @@
 # Who We Interviewed
 2 question answerers, 1 agenda supporter, 1 agenda supporter/storyteller, 1 storyteller, 1 domain learner
 
-![All users interviewed on a matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/training-study/Training_User_Types.PNG)
+![All users interviewed on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/training-study/Training_User_Types.PNG)
 
 
 # What We Tested
