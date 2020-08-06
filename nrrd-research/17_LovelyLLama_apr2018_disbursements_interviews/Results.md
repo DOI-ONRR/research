@@ -2,7 +2,7 @@
 We conducted 7 interviews with users about their usage of disbursements.  
 # Who we interviewed
 We interviewed 4 question answerers, 1 storyteller, 1 domain learner, and 1 question answerer/storyteller. 5 were internal to ONRR and 2 were external.
-![User types on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/17_LovelyLLama/DisbursementsInterviewsUserTypes.PNG)
+![User types on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/17_LovelyLLama_apr2018_disbursements_interviews/DisbursementsInterviewsUserTypes.PNG)
 
 # Summary of findings
 ## Participants wanted more broken out data than we currently provide for disbursements.
