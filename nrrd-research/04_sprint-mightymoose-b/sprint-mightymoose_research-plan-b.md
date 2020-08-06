@@ -33,11 +33,11 @@ More information on the proposed information architecture is [here](https://gith
 
 ## Script
 
-Script available [here](https://github.com/18F/doi-extractives-data/blob/research/research/04_sprint-mightymoose-b/sprint-mightymoose_interview-script-b.md).
+Script available [here](https://github.com/ONRR/research/blob/master/nrrd-research/04_sprint-mightymoose-b/sprint-mightymoose_interview-script-b.md).
 
 
 ## Test asset(s)
 
 [Live mockup](https://invis.io/564MCHYDR)
 
-[Image](https://github.com/18F/doi-extractives-data/blob/research/assets/img/mightymoose/mighty-moose-b.png)
+[Image](https://github.com/ONRR/research/blob/master/assets/img/mightymoose/mighty-moose-b.png)
