@@ -134,7 +134,7 @@ There are several bugs and usability issues that need to be addressed.
 
 - Clicking a glossary term again should close the glossary. [#819](https://github.com/18F/doi-extractives-data/issues/819)
 
-- Almost everyone tries to click on a state from the middle-of-homepage graphic as their first exploration into our data. This sends them to the [federal revenue by location](https://useiti.doi.gov/explore/federal-revenue-by-location/) dataset and they don't know that there are more datasets available. Also, they are surprised when clicking on a state from the homepage doesn't send them to information on that state specifically. [#1259](https://github.com/18F/doi-extractives-data/issues/1259)
+- Almost everyone tries to click on a state from the middle-of-homepage graphic as their first exploration into our data. This sends them to the federal revenue by location dataset and they don't know that there are more datasets available. Also, they are surprised when clicking on a state from the homepage doesn't send them to information on that state specifically. [#1259](https://github.com/18F/doi-extractives-data/issues/1259)
 
 - Very few people scroll down on our sub-page landing pages unless they have large computer screens. 4 out of 5 of our testing group did not have screens big enough to notice that they should scroll down. So, even if they, for example, make it to our explore data landing page, they don't see the full breadth of information available.
 
