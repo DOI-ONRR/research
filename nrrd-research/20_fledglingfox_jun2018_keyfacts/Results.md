@@ -20,7 +20,7 @@ Prototype: https://vavl06.axshare.com/#g=1&p=start_1
 
 # Who we interviewed
 We interviewed 2 domain learners, 1 domain learner/storyteller, 1 question answerer/storyteller, and 1 agenda supporter.
-![Image of User Types on a Matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/20_fledglingfox_jun2018_keyfacts/KeyFactsUsers.PNG)
+![Image of User Types on a Matrix](https://github.com/ONRR/research/blob/master/nrrd-research/20_fledglingfox_jun2018_keyfacts/KeyFactsUsers.PNG)
 # Findings summary
 Determine the best approach for presenting **key facts** on the website.
 * Users liked seeing trends over time and picked the options that showed trends.
@@ -122,7 +122,7 @@ We need to provide more clarity in how filtering and grouping works.  Users thou
 | Storyteller (2 half participants) | Two participants had storytelling behaviors when using data.  One has question answerer behaviors for finding the data and one had domain learner. |
 | Domain Learner (2 whole participants, and one half) | Two participants were close to what we had identified as domain learners, but I think we may need to move where we place the domain learner on the triangles.  They do more question answering that we predicted. |
 
-See [User Types Page](https://github.com/ONRR/doi-extractives-data/blob/research/research/00_UserTypes/00_UserTypes.md) for updated user types based on these findings.
+See [User Types Page](https://github.com/ONRR/research/blob/master/nrrd-research/00_UserTypes/00_UserTypes.md) for updated user types based on these findings.
 
 # Summary of recommendations
 * Use trend bar charts for production data - we have a monthly and an annual view that participants liked.
