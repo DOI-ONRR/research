@@ -51,7 +51,7 @@ Thank you for taking the time to participate in our research study. I will be co
 Our goal in this team is to talk to users about our site, test how they would complete a task,  and observe how they are using it to learn about possible improvements to the site. 
 ### External users
 I have a form for you to digitally sign giving us permission to conduct the study. It just states your rights as a participant and that we won't be capturing any personally identifiable information
-* Consent form: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSenUo9tqJx7vCoM0egah927IkJO5WEQIEBckXgrOaGOxUjLqg/viewform)
+
 
 ## User Task Background (people don’t fit our user profiles) (5 min)
 Tell us a little bit about your background, so we can get a sense for where your perspective is coming from.
