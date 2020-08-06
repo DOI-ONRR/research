@@ -50,7 +50,7 @@ We heard a desire from several of the people we talked to for "historic" data in
 ### What this means for us:
 We don't know enough about the trend analyses users are conducting to know for sure how much data would be useful, so it could be worth **doing more targeted research to learn more about this particular use case** in order to determine how much historical data would be worth the effort to incorporate into NRRD ([#2581](https://github.com/18F/doi-extractives-data/issues/2581)). 
 
-We do know that data is available going back to 1982 on the [statistics site](https://statistics.onrr.gov/Information.aspx), which could be a helpful reference point for any future research into this user need. 
+We do know that data is available going back to 1982 on the statistics site, which could be a helpful reference point for any future research into this user need. 
 
 
 ## Other next steps 
