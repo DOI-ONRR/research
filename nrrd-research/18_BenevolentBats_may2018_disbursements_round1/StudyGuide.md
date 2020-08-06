@@ -4,7 +4,7 @@
 * Qituwra/Ben (if present): Introduce Shannon
 * Welcome, thank you for taking the time to meet with us.  We’re looking for feedback on some designs we’ve been working on.
 * I’m here today along with a few people who are taking notes.  I have a form for you to digitally sign giving us permission to conduct the study. It just states that it won't be capturing any personally identifiable information 
-  * Consent form: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSenUo9tqJx7vCoM0egah927IkJO5WEQIEBckXgrOaGOxUjLqg/viewform)
+
 ## Background Info
 * Tell me a little bit about what you use the NRRD Portal for.
 * Do you use the data about disbursements (how ONRR distributes the money that comes in)? If so, how do you use disbursement data.
