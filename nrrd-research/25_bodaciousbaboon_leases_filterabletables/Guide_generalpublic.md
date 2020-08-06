@@ -6,7 +6,6 @@ Welcome, thank you for taking the time to meet with us.  I’m here today along 
 What we do on this team is talk with people about their tasks and observe them completing tasks, to learn about improvements we can make to the site.  Have you ever participated in research like this before?
 ### Consent (external participants only)
 I have a form for you to digitally sign giving us permission to conduct the study. It just states your rights as a participant and that we won't be capturing any personally identifiable information
-* Consent form: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSenUo9tqJx7vCoM0egah927IkJO5WEQIEBckXgrOaGOxUjLqg/viewform)
 * What the consent for is about (if the participant has any questions): It outlines your rights as a participant and says we won’t misuse your personal information.
 
 ##  Interview testing Process
