@@ -1,7 +1,7 @@
 # User Types
 We talked with 2 agenda supporters and 1 question answerer.
 
-![All users interviewed on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/23_timelyturkey_interim_interviews/OctInterviews_UserTypes.PNG)
+![All users interviewed on a matrix]https://github.com/ONRR/research/edit/master/nrrd-research/23_timelyturkey_oct2018_interim_interviews/OctInterviews_UserTypes.PNG)
 
 # Task Flows
 * One participant mostly deals with production data in his work, but found the revenue and disbursements on our site interesting. He usually uses data to respond to ad hoc requests for reports.
