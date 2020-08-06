@@ -5,7 +5,7 @@
 * Agenda Supporter (2)
 * Storyteller (2)
 * Domain Learner/Storyteller (1)
-![Users interviewed on a matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/26_handsomehamster_revenuefilterabletable/RevenueFilterableTableUsers.PNG)
+![Users interviewed on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/26_handsomehamster_revenuefilterabletable/RevenueFilterableTableUsers.PNG)
 
 # Findings Summary
 * Homepage
