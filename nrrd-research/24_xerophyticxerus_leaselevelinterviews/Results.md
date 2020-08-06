@@ -1,7 +1,7 @@
 # User Types
 We talked with 6 Domain Learners, 4 Question Answerers, 2 Agenda Supporters, and 1 Storyteller/Question Answerer.
 
-![All users interviewed on a matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/24_xerophyticxerus_leaselevelinterviews/LeaseLevelInterviewsUsers.PNG)
+![All users interviewed on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/24_xerophyticxerus_leaselevelinterviews/LeaseLevelInterviewsUsers.PNG)
 
 # User tasks
 * Find a specific number for a known well or contract.
