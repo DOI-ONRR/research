@@ -29,7 +29,7 @@ In order to recruit research participants from our target user groups (both for 
 3. **Setting up a recruiting screener on the site itself,** as well as other related sites that ONRR owns as appropriate/possible.
 
 # Discussion guide
-[Linked here](https://github.com/18F/doi-extractives-data/blob/research/research/14_sprint-inquisitive-impala/discussion_guide.md).
+[Linked here](https://github.com/ONRR/research/blob/master/nrrd-research/14_sprint-inquisitive-impala/discussion_guide.md).
 
 # Test assets
 None
