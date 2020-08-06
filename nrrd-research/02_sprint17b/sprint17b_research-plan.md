@@ -32,10 +32,10 @@ We have made adjustments to the layout and content that attempt to address these
 
 ## Script
 
-Script available [here](https://github.com/18F/doi-extractives-data/blob/research/research/02_sprint17b/sprint17b_interview-script.md).
+Script available [here](https://github.com/ONRR/research/blob/master/nrrd-research/02_sprint17b/sprint17b_interview-script.md).
 
 
 ## Test asset(s)
 
-We will be testing a live prototype site at [eiti-content.webflow.io](http://eiti-content.webflow.io). A record of what that url looked like during testing is available [here](https://github.com/18F/doi-extractives-data/blob/research/assets/img/sprint17b-frontpage.png).
+We will be testing a live prototype site at [eiti-content.webflow.io](http://eiti-content.webflow.io). A record of what that url looked like during testing is available [here](https://github.com/ONRR/research/blob/master/assets/img/sprint17b-frontpage.png).
 
