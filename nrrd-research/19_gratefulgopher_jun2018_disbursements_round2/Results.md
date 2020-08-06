@@ -14,7 +14,7 @@
   * We alternated the order the designs were presented to avoid bias due to the order in which the prototypes are presented. After participants went through all designs, we had them select their preferred option and probed into the functionality that they liked or didn't like across options.
 # Who we interviewed
 We interviewed 4 storytellers, 2 question answerers, 1 agenda supporter, and 1 domain learner.
-![Image of User Types on a Matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/19_gratefulgopher/DisbursementsRound2UserTypes.PNG)
+![Image of User Types on a Matrix](https://github.com/ONRR/research/blob/master/nrrd-research/19_gratefulgopher_jun2018_disbursements_round2/DisbursementsRound2UserTypes.PNG)
 # Findings summary
 Determine the best approach for presenting disbursements data on the website.
 * Users liked the added ability to **slice and dice** the data to get to the information they want.  They also liked the added detail of commodity and monthly data because it allows more slicing and dicing.
@@ -120,11 +120,11 @@ Recommendation: Keep charts for high level facts and as a secondary way to view 
 # User Types
 ## Who we've interviewed
 These are the types of users we've interviewed over the course of 3 disbursements studies. (6 question answerers, 2 agenda supporters, 5 storytellers, 2 domain learners, 1 question answerer/storyteller)
-![All users interviewed for disburemensts on a matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/19_gratefulgopher/AllDisbursementsUsers.PNG)
+![All users interviewed for disburemensts on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/19_gratefulgopher/AllDisbursementsUsers.PNG)
 
 ## User Type 1: Question Answerer
 We've interviewed 6 question answerers. And one user who was a question answerer for how he finds data, but a storyteller for how he uses it.
-![Question answerer users on a matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/19_gratefulgopher/QuestionAnswerer.PNG)
+![Question answerer users on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/19_gratefulgopher/QuestionAnswerer.PNG)
 ### Goals 
 * Inform people about natural resource revenue data that they know is available.
 * Be a source of knowledge about natural resources revenue.
@@ -145,7 +145,7 @@ We've interviewed 6 question answerers. And one user who was a question answerer
 
 ## User Type 2: Agenda Supporter
 We've interviewed 2 agenda supporters.
-![Agenda supporter users on a matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/19_gratefulgopher/AgendaSupporter.PNG)
+![Agenda supporter users on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/19_gratefulgopher/AgendaSupporter.PNG)
 ### Goals 
 * Find supporting data for his or her agenda.
 * Work with the data and use it to inform people about how natural resource revenue data supports their agenda.
@@ -173,7 +173,7 @@ We've interviewed 2 agenda supporters.
 
 ## User Type 3: Storyteller
 We've interviewed 5 storytellers. And one user who was a question answerer for how he finds data, but a storyteller for how he uses it.
-![Storyteller users on a matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/19_gratefulgopher/Storyteller.PNG)
+![Storyteller users on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/19_gratefulgopher/Storyteller.PNG)
 ### Goals 
 * Understand what is happening with natural resources.
 * Learn from the data whether there’s a story to tell and uncover any stories found.
@@ -201,7 +201,7 @@ We've interviewed 5 storytellers. And one user who was a question answerer for h
 
 ## User Type 4: Domain Learner
 We've interviewed 2 domain learners.
-![Domain learner users on a matrix](https://github.com/ONRR/doi-extractives-data/blob/research/research/19_gratefulgopher/DomainLearner.PNG)
+![Domain learner users on a matrix](https://github.com/ONRR/research/blob/master/nrrd-research/19_gratefulgopher/DomainLearner.PNG)
 ### Goals 
 * Understand how the revenue collection and disbursement process works.
 * Keep tabs on how well the process is working for the domain or locality he/she is interested in.
