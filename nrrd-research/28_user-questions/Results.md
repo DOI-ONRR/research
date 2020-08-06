@@ -5,7 +5,7 @@
 
 ## Who we interviewed
 6 Domain Learners, 5 Question Answerers, 1 Agenda Supporter, 1 Storyteller
-![Users interviewed on a matrix by type](https://github.com/ONRR/research/blob/master/nrrd-research/28_user-questions/user-questions-usertypes.PNG)
+![Users interviewed on a matrix by type](https://github.com/ONRR/research/blob/master/nrrd-research/28_user-questions/28_user-questions-usertypes.PNG)
 
 ## User questions findings
 
