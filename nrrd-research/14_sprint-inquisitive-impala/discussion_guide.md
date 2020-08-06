@@ -31,11 +31,11 @@ Could you talk me through the last time you sought out information related to en
 - What was challenging about this experience?
 - What would have made it easier for you?
 
-_If the participant ends up screensharing and mentions they’ve visited any of the sites ONRR manages, go to **[General usability test](https://github.com/18F/doi-extractives-data/blob/research/research/14_sprint-inquisitive-impala/discussion_guide.md#general-usability-test)**_
+_If the participant ends up screensharing and mentions they’ve visited any of the sites ONRR manages, go to **[General usability test](https://github.com/ONRR/research/blob/master/nrrd-research/14_sprint-inquisitive-impala/discussion_guide.md#general-usability-test)**_
 
 _OR_
 
-_If not, go to **[Wrap up](https://github.com/18F/doi-extractives-data/blob/research/research/14_sprint-inquisitive-impala/discussion_guide.md#wrap-up).**_
+_If not, go to **[Wrap up](https://github.com/ONRR/research/blob/master/nrrd-research/14_sprint-inquisitive-impala/discussion_guide.md#wrap-up).**_
 
 # General usability test [~15 mins]
 
