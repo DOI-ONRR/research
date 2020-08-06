@@ -30,7 +30,7 @@ Our team’s goal is  to understand how people use our site and the questions th
 
 ## External users
 Digitally sign giving us permission to conduct the study. It just states your rights as a participant and that we won't be capturing any personally identifiable information
-Consent form: [Google form](https://goo.gl/forms/gAN773PPJOA0YiXL2)
+
 
 ## Interview questions
 * Tell me a little about what your role is and how you use natural resources data in that role.
@@ -50,8 +50,7 @@ Consent form: [Google form](https://goo.gl/forms/gAN773PPJOA0YiXL2)
   * Do you combine our data with data from other sources? If so, which sources?
   * Do you download the data?  If so, what do you do with it?
   * Are you comfortable with using pivot tables?
-* Please rank the importance of different types of data on the website (walk the participant through these and record answers):
-https://docs.google.com/forms/d/e/1FAIpQLSfner9gFQ0TgmyIzjmGQqKr5UPtOpf-XafcvYrbZ7KtHFDrmQ/viewform
+* Please rank the importance of different types of data on the website (walk the participant through these and record answers). (link to Google form no longer available)
 
 ## Prototype testing
 * We’re testing the design we’re not testing you.
