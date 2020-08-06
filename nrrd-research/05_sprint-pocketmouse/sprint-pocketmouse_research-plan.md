@@ -40,7 +40,7 @@ More information on the proposed information architecture writ large is [here](h
 
 ## Script
 
-Script available [here](https://github.com/18F/doi-extractives-data/blob/research/research/05_sprint-pocketmouse/sprint-pocketmouse_interview-script.md).
+Script available [here](https://github.com/ONRR/research/blob/master/nrrd-research/05_sprint-pocketmouse/sprint-pocketmouse_interview-script.md).
 
 
 ## Test asset(s)
@@ -49,4 +49,4 @@ We have two versions of this test, one with a simpler glossary icon (open book) 
 
 [Liveshare](https://invis.io/974Q36H6Q)
 
-[Image](https://github.com/18F/doi-extractives-data/blob/research/assets/img/pocketmouse/sprint-pocketmouse-img-a.png)
+[Image](https://github.com/ONRR/research/blob/master/assets/img/pocketmouse/sprint-pocketmouse-img-a.png)
