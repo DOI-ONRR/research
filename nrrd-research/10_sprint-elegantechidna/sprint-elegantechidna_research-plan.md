@@ -36,5 +36,5 @@ Script available [here](https://github.com/18F/doi-extractives-data/blob/researc
 
 ## Test asset(s)
 
-State profile prototype page: https://federalist.18f.gov/preview/18F/doi-extractives-data/state-pages/states/UT/ (sub the state code for the user's state).
+State profile prototype page: (link no longer available)
 
