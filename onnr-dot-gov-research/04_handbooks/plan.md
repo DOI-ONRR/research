@@ -45,24 +45,7 @@ I also want to stress that this isn’t a test and we certainly ARE NOT TESTING 
 
 ### Instructions 
 
-1. Go to: https://github.com/login 
-
-2. Log into the participant GitHub account: [email address and password provided to each participant and we will verbally give each participant an authentication code sent to the email address during login.]
-
-3. Go to this link: [Individual link to a private repo provided to each participant.]
- 
-
-4. All the cards will be in an uncategorized column.  Use the Add Column link on the right to add columns to organize the cards. 
-
-![Screenshot of GitHub showing the uncategorized column](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort1.png)
-![Screenshot of GitHub showing add column functionality](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort2.png)
-![Screenshot of GitHub showing an added category](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort3.png)
-
-5. Drag the cards into the columns for the categories you create 
-
-6. Take a last look at your categories and rename any by clicking on the … and selecting Edit column 
-
-![Screenshot of GitHub showing how to edit a column](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort4.png)
+1
 
   
 
