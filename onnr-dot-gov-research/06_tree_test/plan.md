@@ -54,41 +54,36 @@ I also want to stress that this isn’t a test and we certainly ARE NOT TESTING 
 
 1. Direct each participant to the correct link 
 
+[Version 1](https://wkvlqa.axshare.com/version_1.html)
+[Version 2](https://wkvlqa.axshare.com/version_2.html)
+[Version 3](https://wkvlqa.axshare.com/version_3.html)
 
+2. Read each item to find on the right and then use the categories on the left to find the item. 
 
+### Follow-up questions 
+* Tell me a little bit about how it felt to navigate the categories. 
+* Was anything you use onrr.gov for missing from the tasks?  Where would you look for that? 
+* Were there any tasks that were difficult to find where to look? 
+* Were there any categories or subcategories you would change the wording on? 
 
-4. All the cards will be in an uncategorized column.  Use the Add Column link on the right to add columns to organize the cards.
+## Homepage Wireframe 
 
-![Screenshot of GitHub showing the uncategorized column](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort1.png)
-![Screenshot of GitHub showing add column functionality](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort2.png)
-![Screenshot of GitHub showing an added category](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort3.png)
+Here’s a visual of the end goal organization of the website. Not everything is clickable because this is a prototype, but it will give to an idea of how the categories could be applied to the website. 
 
-5. Drag the cards into the columns for the categories you create
+https://wkvlqa.axshare.com/homepage.html 
 
-6. Take a last look at your categories and rename any by clicking on the … and selecting Edit column
+Take a look and let me know what you think about what you see here. 
 
-![Screenshot of GitHub showing how to edit a column](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/03_card_sort/CardSort4.png)
+Does it make sense? 
 
+Which parts of the page would you use? 
 
+Are there things you would remove? 
 
-#### As you sort
-
-* Think out loud, so I can understand your thought process.
-* Let me know if there are any cards you don’t understand.
-* When you’re done I’ll have a few follow-up questions for you.
-
-### Follow-up questions
-
-* Tell me a little bit about how you organized the information.
-* What do you typically use onrr.gov to do?
-* Was anything you use it for missing from the cards?
-* Were there any cards that were difficult to find a home for?
-* Were there any cards you would change the wording on?
-* Were there any you would put in more than one place?
-
-### Close
+### Close 
 
 * Are you interested in participating in future studies?  
-* Is there anyone else you recommend we speak with?
+* Is there anyone else you recommend we speak with? 
+* Thank you for your time. Your insights have been helpful to us in understanding how we might improve our site. If there is additional information that comes to mind that you think might be helpful please feel free to reach out to myself via email. 
 
-Thank you for your time. Your insights have been helpful to us in understanding how we might improve our site. If there is additional information that comes to mind that you think might be helpful please feel free to reach out to myself via email.
+  
