@@ -24,7 +24,7 @@ These will be presented on the screen in the Axure prototype.
 4. You need to find a lease number to put on your royalty report.
 5. You need to look something up in the handbook for oil royalty reporting.
 6. You want to find the ONRR representative assigned to your company to contact with questions.
-7. You have a new person on your team and need to fill out the form for them to be an official contact (Addressee of Record Designation for Service of Official Correspondence Form - ONRR-4444) . 
+7. You have a new person on your team and need to fill out the form for them to be an official contact (Addressee of Record Designation for Service of Official Correspondence Form - ONRR-4444) .
 8. You need to make a rent payment.
 9. You need to read a regulation to value a commodity on your report.
 10. You received an order to pay from ONRR and you would like to file an appeal.  
