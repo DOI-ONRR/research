@@ -54,9 +54,9 @@ I also want to stress that this isn’t a test and we certainly ARE NOT TESTING 
 
 1. Direct each participant to the correct link 
 
-[Version 1](https://wkvlqa.axshare.com/version_1.html)
-[Version 2](https://wkvlqa.axshare.com/version_2.html)
-[Version 3](https://wkvlqa.axshare.com/version_3.html)
+* [Version 1](https://wkvlqa.axshare.com/version_1.html)
+* [Version 2](https://wkvlqa.axshare.com/version_2.html)
+* [Version 3](https://wkvlqa.axshare.com/version_3.html)
 
 2. Read each item to find on the right and then use the categories on the left to find the item. 
 
@@ -72,13 +72,10 @@ Here’s a visual of the end goal organization of the website. Not everything is
 
 https://wkvlqa.axshare.com/homepage.html 
 
-Take a look and let me know what you think about what you see here. 
-
-Does it make sense? 
-
-Which parts of the page would you use? 
-
-Are there things you would remove? 
+* Take a look and let me know what you think about what you see here. 
+* Does it make sense? 
+* Which parts of the page would you use? 
+* Are there things you would remove? 
 
 ### Close 
 
