@@ -2,19 +2,33 @@
 
 ## Goals
 
-The goals of the card sort are to:
+The goals of the tree test are to:
 
-* Understand how users think about onrr.gov content
-* Understand how users organize the content
+* Validate the structure that came out of card sorting  
+* Determine whether users can find items that were hard to categorize in the card sort 
+* Determine if there are labeling tweaks needed in the categories 
+* Get feedback on the latest homepage wireframe 
 
 ## Recruiting plan
 We will reach out to external industry users (capped at 9 participants) and internal ONRR users.
 
 ## Study logistics
 
-We will use GitHub projects for the participants to sort the cards.  We will run the sessions live because we have to give users a code during login to prevent PII from being attached to their organization.  We will also use the opportunity to ask follow-up questions to understand why the participant sorted the content the way they sorted it.  We will be able to conduct the sessions with one facilitator and won’t need note takers because we’ll have the participant’s organization in GitHub.
+We will use a clickable Axure prototype with the categories and wireframe. 
 
-## Interview Guide
+### Tasks
+These will be presented on the screen in the Axure prototype. 
+1. You are a new reporter and want to get set up to start submitting reports to ONRR. 
+2. You are having trouble logging into Data Warehouse and want to get help finding out what you should do. 
+3. You need to report production. 
+4. You need to find a lease number to put on your royalty report. 
+5. You need to look something up in the handbook for oil royalty reporting. 
+6. You want to find the ONRR representative assigned to your company to contact with questions. 
+7. You have a new person on your team and need to fill out the form for them to be an official contact (Addressee of Record Designation for Service of Official Correspondence Form - ONRR-4444) . 
+8. You need to make a rent payment. 
+9. You need to read a regulation to value a commodity on your report. 
+10. You received an order to pay from ONRR and you would like to file an appeal.  
+
 ### Intro
 
 Introduction: Thank you for taking the time to participate in our research study. My name is [facilitator name] and I will be conducting the interview [and my teammates will be listening in to take notes and observe].
@@ -29,27 +43,18 @@ Do what you would do if we weren’t here.
 
 Think out loud.
 
-### About card sorting
-
+### About tree testing
 On onrr.gov, one of our biggest challenges is organizing information, so that it is easy to find. This is where you come in. We are so familiar with the product that the way we might associate terms is not the way a user would.   
 
-I’ll give you a link to a “stack” of cards with terms on them and I would like you to separate those cards into groups that make sense to you.  For example, suppose I gave you a stack of cards with the 50 states written on them.  You might decide to organize them:
-* Geographically- “New England, Southern, Western, Mid-west, etc.”
-* States you’ve visited versus states you haven’t- maybe you’d even add a group for states you haven’t visited but want to.
-* By climate or weather
-* By time zone
+I’ll give you a link to page with the categories we want to put on our website and I’ll have you navigate the category tree to tell me where you would look for a series of items.   
 
-Whatever makes the most sense to you!  So you’ll need to review the terms on the cards and decide which organization makes the most sense.   
-
-I also want to stress that this isn’t a test and we certainly ARE NOT TESTING YOU.  There are no right or wrong answers, and please know that nothing you say will make me happy and nothing you say will upset me.
+I also want to stress that this isn’t a test and we certainly ARE NOT TESTING YOU.  There are no right or wrong answers, and please know that nothing you say will make me happy and nothing you say will upset me. 
 
 ### Instructions
 
-1. Go to: https://github.com/login
+1. Direct each participant to the correct link 
 
-2. Log into the participant GitHub account: [email address and password provided to each participant and we will verbally give each participant an authentication code sent to the email address during login.]
 
-3. Go to this link: [Individual link to a private repo provided to each participant.]
 
 
 4. All the cards will be in an uncategorized column.  Use the Add Column link on the right to add columns to organize the cards.
