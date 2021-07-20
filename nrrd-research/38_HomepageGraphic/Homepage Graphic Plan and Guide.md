@@ -1,127 +1,99 @@
-# Background
-* We have launched a beta site that includes an updated Explore Data page and an updated query tool.  The Explore Data page includes a new interactive map for revenue, production and disbursements, summary and detail cards at the national, state and county levels,  as well as summary and detail charts.  
-* We also have updated  data query tool to be able to query data by production, revenue, and disbursements and then by landowner, location, revenue type, commodity, source, disbursement source and fiscal year.   
-* We want to observe how users navigate the new site and document any usability issues. 
-## Goals
-* Determine whether the new explore data page is usable and useful. 
-* Determine whether the data query tool meets user needs. 
-* Identify areas of the beta site and bugs that need to be fixed.  
+# Plan
+What are we testing: Homepage Graphic
 
-## Method and desired participants
-* Over the course of a few weeks, we would like  to interview at least 8 participants from the following user groups for 30 minute 1:1 interviews. We will focus on users that have oil and gas experience and understand natural resources data. 
-* Question Answerers: These are people like congressional aides and internal liaisons who use the site to answer specific questions. 
-* Agenda Supporters: These are people like those from NGOs or industry who use the site to see how the data supports an agenda they already have in mind. 
-* Storytellers: These are people like journalists and academics who want the data to tell them a story that they want to share with other people. 
-* Domain Learners: These are people like state and county government reps and tribal leaders who want to monitor what’s going on within their domain and understand the whole system. 
+Tasks: What do we want from this study?
+1. Users understand the purpose of the site
+1. Identify potential improvements for the homepage graphic(s)
 
-## Recruitment Strategy
-* In order to recruit research participants from our target user groups, we will contact people who are familiar with the site or oil and gas revenue data. We will recruit internally from ONRR and externally.
-* We are hoping to speak with users who are familiar with our data and can help evaluate if the data organization makes sense.
+Goal: Determine which aspects of the two homepage graphic options work and don't work for users and to test the how datasets fit diagram now that it's built.
 
-## Test Assets:
+Success Standard: can tell us the purpose of the site in the shortest amount of time; it’s easy for the user to understand
+Failure Standard: the user takes a while to determine the purpose; it’s difficult for the user to understand
 
-We will be testing the following:
-https://beta-nrrd.app.cloud.gov/ 
+Recruiting Users:
+  * People who aren't super familiar with the scope of the site to see if the graphics help them understand
+  * People who are somewhat familiar with the site to see if the graphics better their understanding of the site than before
+
+Prototype order and facilitator
+1.	A, B (Shannon)
+2.	B, A (Shannon)
+3.	B, A  (Sarah)
+4.	A, B (Shannon)
+5.	B, A (Sarah)
+6.	B, A (Brandi)
+7.	A, B (Sarah)
+8.	A, B (Sarah)
+9.	A, B (Brandi)
+10.	B, A (Shannon)
+11.	A, B (Shannon)
+12.	B, A (Shannon)
+13.	A, B (Shannon
+
+# Guide
+## Introduction
+
+  * Introduce moderator and notetakers
+  * Thank you for meeting with us
+  * The purpose of this study is to understand potential improvements we could make to our graphics on the NRRD website
+  * Process: Background questions, carry out tasks, and closing questions
+  * “We are testing the homepage graphic, not you”
+  * The purpose of this usability study is to receive your candid feedback
+  * [Consent form](https://forms.office.com/Pages/ResponsePage.aspx?id=urWTBhhLe02TQfMvQApUlE9F1z2Bp09BtvG20Q-ttkpUOTFXNFJENDEwQVQ1Q1ROMVlWOTRaUEo1TyQlQCN0PWcu) (for external users): digitally sign giving us permission to conduct the study. It just states your rights as a participant and that we won't be capturing any personally identifiable information. 
+  * To begin I’ll ask you about your background and then we’ll ease into the tasks
+
+## Warm-up/ Background Questions
+
+  * Tell us a little bit about your background, so we can get a sense of where your perspective is coming from.
+  * How well do you know the purpose of the site?
+  * What information do you expect from this site?
+
+## Tasks
+
+Before we start I’d like to remind you that we’re not testing you, we’re testing the product and to please think aloud when you’re interacting with the product because we want to understand your thoughts. Also, remember to be honest in your feedback, so if something feels wrong or is difficult feel free to say so.
+<br><br>
+Access the link in the chat and share your screen, please [NRRD Homepage](https://revenuedata.doi.gov/)
+  * Can you click through the site to get a better understanding of the site
+  * How easy was it to understand the purpose of the site?
+  * Can you tell me what kind of data is on the site?
+<br><br>
+Access the link in the chat and share your screen, please [4 cards](https://xd.adobe.com/view/e98f0e29-a5b6-4bd4-8135-150a24b23e9a-bcdc/?fullscreen&hints=off)
+  * To access the chat please go to the menu by clicking on the dots
+  * We’re testing the design we’re not testing you. 
+  * I’d like you to think out loud
+  * Not everything is clickable because it’s a prototype
+  * What if this graphic was on top of the homepage instead how would that facilitate your understanding of the site?
+  * Were there any elements of the graphic that made it difficult to understand?
+  * Would you change anything about this graphic?
+  * Did the graphic do what you thought it would do?
+  * If they don’t click on “more info” → What do you think “more info” does?
+  * What went well with the graphic? What didn’t go well?
+  * Overall, how satisfied are you with the graphic?
+<br><br>
+Access the link in the chat and share your screen, please [2 cards](https://xd.adobe.com/view/85be3415-1b1c-4475-b309-5f30b85b007c-d0ed/?fullscreen&hints=off)
+  * We’re testing the design we’re not testing you. 
+  * I’d like you to think aloud
+  * What if this graphic was on top of the homepage instead how would that facilitate your understanding of the site?
+  * Were there any elements of the graphic that made it difficult to understand?
+  * Would you change anything about this graphic?
+  * Did the graphic do what you thought it would do?
+  * What went well with the graphic? What didn’t go well?
+  * Overall, how satisfied are you with the graphic?
+<br><br>
+After seeing both prototypes
+  * Which graphic do you prefer or do you not prefer a graphic?
+  * What are your thoughts on having a graphic on the homepage to describe the purpose of the site?
+<br><br>
+Access the link in the chat and share your screen, please [How data sets fit diagram](https://revenuedata.doi.gov/how-revenue-works)
+  * Is this information helpful? 
+  * Is there anything that’s confusing? 
+  * Is there anything you would add? 
 
 
-# Interview guide
-## Intro
-Thank you for taking the time to participate in our research study. I will be conducting the interview, and my teammates will be listening in to take notes and observe.
-Our team’s goal is to talk to users about our site, test how they would complete a task, and observe how they are using it to learn about possible improvements to the site. 
-External users: digitally sign giving us permission to conduct the study. It just states your rights as a participant and that we won't be capturing any personally identifiable information
+## Wrap-up Questions and Closing words
 
-## User Task Background (people don’t fit our user profiles) (5 min)
-Tell us a little bit about your background, so we can get a sense for where your perspective is coming from.
+  * Is there anything else you’d like to tell us?
+  * Do we have permission to contact you for another user interview?
+  * Is there anyone else you recommend we speak with to get more insight on our homepage graphic?
+  * Thank you for your time. If you think of any additional information that might be helpful, please feel free to reply to the meeting invite 
 
-## User Task Background (people who fit our user profiles whom we haven’t interviewed before) (20 min)
-* What is your role and how do you use natural resources data in that role?
-* Have you used the Natural Resources Revenue portal before?
-  * Tell me a little bit about what you use the Portal for.
-* What is your overall process when you are using natural resource data?
-  * What are your goals?
-  * What do you want people to know?
-  * How do you know what data or numbers you need for your work?
-  * How do you know where to look?
-  * How do you verify the data you are going to use?
-  * What does your output look like?
-* What are the most important pieces of information to you?
-* Is natural resources revenue data important to you?
-  * How do you currently access data you need to do your job?
-  * What struggles/problems have you encountered when looking for this data?
-* What kind of questions do you need to answer about natural resources revenue data? Can you give a specific example?
 
-## Interview testing Process:
-* We’re testing the design we’re not testing you.
-* There are no right or wrong answers.
-* Please think out loud as we are conducting the interview for us to understand your thought process as you are exploring the site. We want to know what you would do if we weren’t watching.
-* We appreciate your honest feedback to help us improve our designs
-
-## Tasks & Questions:
-### Homepage
-Start at the Home page  
-https://dev-nrrd.app.cloud.gov/ 
-User Directed Task
-* Can you tell me a specific question you have about natural resources revenue? How would you find that information using this website?
-* How easy or difficult was it to find the answer?
-* What do you think of the information that’s presented?
-* Is this information useful?
-* Are there pieces of information that you wouldn’t use?
-*Move to explore data or query tool probes depending on user path/questions 
-
-### Finding Explore Data and user directed questions  
-#### Explore Data (revenue) 
-* Poke around a bit and see what you can do on this page and what it's telling you.  
-* What do you think of the information presented?  
-* Is the information useful?  
-* What do you think of the information presented on the national card? 
-#### Nationwide revenue summary  
-* What do you think this is telling you?  
-* Task: What is federal onshore rents for FY 2015? 
-#### Nationwide location circle chart 
-* What is this chart telling you?  
-* Task: Can you tell me where the top location is for data type selected?  
-#### State cards 
-* Task: How would you compare what's going on with Louisiana to what's going on in the whole country? 
-* Is the information on the Louisiana card helpful? 
-* Are there any pieces of information that you would want to compare that you don't see here? 
-* Is it intuitive to click out of a card? 
-* How many locations would you want to compare at once? Are 4 cards a good amount? 
-* Revenue over time chart: Ask about once several cards are chosen to compare. If look at chart, can you tell what revenue was in xx year from the chart?  
-#### Offshore data 
-* If answer yes. Task: How would you make the map display offshore data? 
-* Did the offshore data button make sense right away? 
-* Is it clear that the cards are only displaying Federal data and not Native American data? 
-#### Native American data 
-* How would you add Native American card to be displayed? 
-* Was that easy or hard to find? 
-#### County data 
-* Task: How would you view the map by counties? 
-* Did Map level make sense? If not, what’s another name to make it clear? 
-* How would you use county data? Would you want to compare it against other counties? Only counties within a single state? Against the whole state? 
-
-### Finding the query tool and user directed questions 
-https://674jzn.axshare.com/ 
-This is a prototype, so not everything will be clickable. 
-#### Query Tool  
-* Filter options 
-* Grouping/break outs 
-* How would you download the data?  
- Are there other tasks you might use this tool to complete? Probe into tasks for each data type and use those, if possible.  If they can’t come up with their own tasks, use the  ones below. 
-* Show them the Explore Data page then ask: Did you expect the filters you select in the query tool or explore data to stick when you switch between the two?  
-#### Revenue Tasks  
-* If you wanted to know how much revenue Wyoming generated from Federal onshore in FY 2017, how would you do that? How would you download the data?  
-* Can you tell us how much federal offshore revenue was collected in Calendar year 2012? 
-* How would you find out how much revenue was generated from rents in 2016? 
-#### General probes 
-* Is the answer where you expected it to be? 
-* Is there anything that doesn’t make sense? 
-* Does the location of the query tool make sense? 
-* What do you think of the filter options? Are there any you would add or remove? 
-* Do they understand the Grouping and Break Out function? 
-* What would they do with the data once they’ve found it? 
-* Are there other areas of the site you’re interested in looking at? Probe into whether they would use Explore Data. 
-
-## Close
-* Are you interested in participating in future studies? Do you have any other specific areas of the site (or data elements) that you’re interested in providing your feedback on?
-* Is there anyone else you recommend we speak with?
-* Thank you for your time. Your insights have been helpful to us in understanding how we might improve our site. If there is additional information that comes to mind that you think might be helpful please feel free to reach out to myself via email.
