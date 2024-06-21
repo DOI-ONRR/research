@@ -30,7 +30,7 @@ Agenda Supporters are people who work for organizations, such as non-governmenta
 
 ![Visual summary of agenda supporter participants, with the majority of participants located between known question and exploration for finding data on the site, closer to known question and between find an answer and present data, closer to present data, for usage of the data, defined as someone who is committed to a cause and looking for data to support that cause](https://github.com/ONRR/research/blob/master/nrrd-research/00_UserTypes/AgendaSupporters.png)
 ### Goals 
-* Find supporting data for his or her agenda.
+* Find supporting data for their agenda.
 * Work with the data and use it to inform people about how natural resource revenue data supports their agenda.
 * Revise the agenda based on the data found.
 * Take action based on the agenda.
@@ -73,9 +73,9 @@ Domain Learners are engaged at a higher level and want to understand the bigger 
 ![Visual summary of domain learner participants, with the majority of participants located between system understanding and known question, closer to system understanding, for finding data on the site and closest to make a decision, but also close to provide an answer and present data, for usage of the data, defined as someone who seeks to understand the whole picture for the domain they oversee](https://github.com/ONRR/research/blob/master/nrrd-research/00_UserTypes/DomainLearners.png)
 
 ### Goals 
-* Keep tabs on how well the process is working for the domain or locality he/she is interested in.
-* Make decisions based on what he/she sees in the data.
-* Answer questions pertaining to his or her domain and the process.
+* Keep tabs on how well the process is working for the domain or locality they are interested in.
+* Make decisions based on what they see in the data.
+* Answer questions pertaining to their domain and the process.
 
 ### Pain Points
 * Seeing the information for the domain or locality that they’re interested in all in one place
@@ -86,9 +86,9 @@ Domain Learners are engaged at a higher level and want to understand the bigger 
 
 ### Scenarios
 * A new **county commissioner** in a western state with significant oil and gas production on federal land ran for office largely on a platform of government transparency and accountability and wants to know how extractive revenues from federal land are disbursed at the state and county level. Using the site, they are able to find out how much was disbursed to their county and state each month, which allows them to hold the state accountable, advocate for their constituents, and inform public debate about extractive industry in their county.
-* A **tribal leader** is concerned about the layers of bureaucracy involved in tribal land governance and is working with the federal government to simplify the process for land-use authorization. They are able to find information on the tribal leasing process to inform their efforts.
-* An **intergovernmental affairs analyst** in the Office of the Secretary routinely pulls data to inform their interactions with Interior stakeholders. They have only one week to generate a GOMESA disbursements data trend analysis to present to Gulf state elected officials. They are able to find detailed, up-to-date GOMESA raw data to use as the basis of the analysis.
-* A public affairs officer from an **oil company** uses our website to get numbers to use in press releases about their company’s extractive activities and to do comparisons against other companies.  They know the numbers are good to use because they come from a government site.
+* A **tribal leader** is working with the federal government to simplify the process for land-use authorization. They need to find information on the tribal leasing process to inform their efforts.
+* An **intergovernmental affairs analyst** in the Office of the Secretary routinely pulls data to inform their interactions with Interior stakeholders. They have only one week to generate a GOMESA disbursements data trend analysis to present to Gulf state elected officials. They need to find detailed, up-to-date GOMESA raw data to use as the basis of the analysis.
+* A public affairs officer from an **oil company** uses NRRD to get numbers to use in press releases about their company’s extractive activities and to do comparisons against other companies.  They know the numbers are good to use because they come from a government site.
 
 
 
