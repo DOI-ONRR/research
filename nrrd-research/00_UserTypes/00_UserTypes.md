@@ -1,7 +1,7 @@
 # User Types
 ## Who we've interviewed
-These are the types of users we've interviewed over the course of all studies since April 2018. 
-![user types mapped on one triangle representing known questions, system understanding, and exploration and another triangle representing providing an answer, presenting data, and making a decision](https://github.com/ONRR/research/blob/master/nrrd-research/00_UserTypes/AllUsers.png)
+These are the types of users we've interviewed over the course of all studies since February 2024. 
+![user types mapped on one triangle representing known questions, system understanding, and exploration and another triangle representing providing an answer, presenting data, and making a decision](https://github.com/DOI-ONRR/research/blob/main/nrrd-research/00_UserTypes/AllUsers-NRRDwiki-Oct2024.PNG)
 
 ## User Type 1: Question Answerer
 Question Answerers generally come to the site with a known question and need to provide the answer to that question directly to the person who asked it. A large portion are internal ONRR analysts who field questions from external audiences and previously used the decommissioned internal site. Congressional staffers also often fall into this user type.
@@ -90,7 +90,20 @@ Domain Learners are engaged at a higher level and want to understand the bigger 
 * An **intergovernmental affairs analyst** in the Office of the Secretary routinely pulls data to inform their interactions with Interior stakeholders. They have only one week to generate a GOMESA disbursements data trend analysis to present to Gulf state elected officials. They need to find detailed, up-to-date GOMESA raw data to use as the basis of the analysis.
 * A public affairs officer from an **oil company** uses NRRD to get numbers to use in press releases about their company’s extractive activities and to do comparisons against other companies.  They know the numbers are good to use because they come from a government site.
 
+## User Type 5: ONRR Collaborator
+ONRR Collaborators are often ONRR employees who typically use the NRRD site peripherally to complete a larger task internal to ONRR. In some cases, an ONRR sharer provide the raw data to publish on the site. 
 
+### Goals
+*	Provide informative resource to others for learning about ONRR natural resource processes.
+*	Rely on accuracy of NRRD data to verify their data sources’ accuracy.
+*	Provide accurate data to be published on the site.
 
+### Pain Points
+*	Navigating and finding the correct pages to redirect others to.
+*	Data required to verify internal dataset is unavailable on NRRD site, due to proprietary nature of dataset.
+*	Unclear understanding and direction from leadership of data attributes that should be included to publish on NRRD site.
 
-
+### Scenarios
+*	The ONRR program manager provides internal guidance about ONRR’s internal data processes. They direct internal team members to NRRD to learn about how a dataset is formed. This allows the ONRR employees to build case studies about the data.
+*	An ONRR employee uses NRRD to validate their dataset. They have a different dataset that they want to QAQC. They use query data to find the publicly available values to check against their internal dataset quickly and easily.
+*	An ONRR employee who provides the raw data that will eventually be published on the NRRD site. This employee pulls the raw data from internal systems and sends it to the ODDD team, who then review the numbers and then publish on the NRRD site.
