@@ -93,6 +93,8 @@ Domain Learners are engaged at a higher level and want to understand the bigger 
 ## User Type 5: ONRR Collaborator
 ONRR Collaborators are often ONRR employees who typically use the NRRD site peripherally to complete a larger task internal to ONRR. In some cases, an ONRR sharer provide the raw data to publish on the site. 
 
+!(https://github.com/DOI-ONRR/research/blob/main/nrrd-research/00_UserTypes/ONRRCollaborator-NRRDwiki-Oct2024.PNG)
+
 ### Goals
 *	Provide informative resource to others for learning about ONRR natural resource processes.
 *	Rely on accuracy of NRRD data to verify their data sources’ accuracy.
