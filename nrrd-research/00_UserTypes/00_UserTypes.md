@@ -91,14 +91,14 @@ Domain Learners are engaged at a higher level and want to understand the bigger 
 * A public affairs officer from an **oil company** uses NRRD to get numbers to use in press releases about their company’s extractive activities and to do comparisons against other companies.  They know the numbers are good to use because they come from a government site.
 
 ## User Type 5: ONRR Collaborator
-ONRR Collaborators are often ONRR employees who typically use the NRRD site peripherally to complete a larger task internal to ONRR. In some cases, an ONRR sharer provide the raw data to publish on the site. 
+ONRR Collaborators are often ONRR employees who use the NRRD site peripherally to complete a larger task internal to ONRR. In some cases, an ONRR collaborator provides the raw data to publish on the site. 
 
 ![Visual summary of ONRR Collaborator participants, with the majority of participants located between system understanding and known question, closer to system understanding. For usage of data, these users are closest to provide an answer.](https://github.com/DOI-ONRR/research/blob/main/nrrd-research/00_UserTypes/ONRRCollaborator-NRRDwiki-Oct2024.PNG)
 
 ### Goals
 *	Provide informative resource to others for learning about ONRR natural resource processes.
-*	Rely on accuracy of NRRD data to verify their data sources’ accuracy.
-*	Provide accurate data to be published on the site.
+*	Rely on accuracy of NRRD data to verify their data's accuracy.
+*	Provide data to be published on the site.
 
 ### Pain Points
 *	Navigating and finding the correct pages to redirect others to.
