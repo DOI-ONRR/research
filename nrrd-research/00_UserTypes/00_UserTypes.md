@@ -103,7 +103,7 @@ ONRR Collaborators are often ONRR employees who use the NRRD site peripherally t
 ### Pain Points
 *	Navigating and finding the correct pages to redirect others to.
 *	Data required to verify internal dataset is unavailable on NRRD site, due to proprietary nature of dataset.
-*	Unclear understanding and direction from leadership of data attributes that should be included to publish on NRRD site.
+*	Unclear understanding of data attributes that should be included to publish on NRRD site.
 
 ### Scenarios
 *	The **ONRR program manager provides guidance** about ONRR’s data processes. They direct internal team members to NRRD to learn about how a dataset is formed. This allows the ONRR employees to build case studies about the data.
