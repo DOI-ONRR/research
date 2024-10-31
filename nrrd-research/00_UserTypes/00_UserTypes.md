@@ -108,4 +108,4 @@ ONRR Collaborators are often ONRR employees who use the NRRD site peripherally t
 ### Scenarios
 *	The **ONRR program manager provides guidance** about ONRR’s data processes. They direct internal team members to NRRD to learn about how a dataset is formed. This allows the ONRR employees to build case studies about the data.
 *	An **ONRR employee validates their dataset** using NRRD. They have a different dataset that they want to QAQC. They use query data to find the publicly available values to check against their internal dataset quickly and easily.
-*	An **ONRR employee** who provides the raw data that will eventually be published on the NRRD site. This employee pulls the raw data from internal systems and sends it to the ODDD team, who then review the numbers and then publish on the NRRD site.
+*	An **ONRR employee** who provides the raw data that will eventually be published on the NRRD site. This employee pulls the raw data from internal systems and sends it to the ODDD team, who then review the numbers and publish on the NRRD site.
